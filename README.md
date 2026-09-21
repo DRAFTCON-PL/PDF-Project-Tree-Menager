@@ -1,5 +1,5 @@
 # PDF Project Tree Manager
-<img width="770" height="859" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2f5a8441-6121-4a1e-8ff1-2bab74386c4f" />
+<img width="500" height="600" alt="Screenshot_2" src="https://github.com/user-attachments/assets/2f5a8441-6121-4a1e-8ff1-2bab74386c4f" />
 
 A lightweight Windows desktop tool for organizing and merging PDF files into a project tree — built for anyone who repeatedly assembles the same set of output PDFs (e.g. project documentation, technical drawings, reports) from many source files.
 
