@@ -31,19 +31,10 @@ Projects are saved as JSON files, so you can reopen and re-merge them any time �
 - Windows
 - Python 3.x
 
-Required third-party packages are installed automatically on first run if missing:
-
-- `customtkinter` — modern UI widgets
-- `pypdf` — PDF merging
-- `tkinterdnd2` — drag & drop from Explorer
-- `PyMuPDF` (`pymupdf`) — PDF page rendering for previews
-- `Pillow` — image handling
-- `tkcalendar` — date picker widget
-
 ## Getting started
 
 ```bash
-python "PDF Project Tree Menager_EN_02.py"
+python "PDF Project Tree Menager_04.py"
 ```
 
 On first launch, the app checks for the required packages and installs any that are missing via `pip`.
@@ -58,8 +49,9 @@ On first launch, the app checks for the required packages and installs any that 
 6. Save the project (💾) to continue working on it later.
 
 ## License
-
-Freeware — free to use.
+Free software under the GNU AGPL v3 license
+Source code available on GitHub
+Uses: PyMuPDF (AGPL-3.0), PySide6 (LGPL-3.0), PySide6-Fluent-Widgets (GPL-3.0), pypdf (BSD-3).
 
 ## Feedback & updates
 
